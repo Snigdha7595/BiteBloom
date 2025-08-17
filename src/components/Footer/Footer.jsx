@@ -7,7 +7,6 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          {/* <img src={assets.logo} alt="" /> */}
           <p>
             Welcome to Bite Bloom — where every bite blossoms into flavor.
             Discover your favorite meals, delivered fresh and fast, right to

@@ -8,6 +8,7 @@ import Footer from "./components/Footer/Footer";
 import AppDownload from "./components/AppDownload/AppDownload";
 import { useState } from "react";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
+import VirtualAssistant from "./components/VirtualAssistant/VirtualAssistant";
 
 const App = () => {
   const [showLogin, setShowLogin] = useState(false);
@@ -26,6 +27,7 @@ const App = () => {
           <Route path="/order" element={<PlaceOrder />}></Route>
           <Route path="/app-download" element={<AppDownload />} />
         </Routes>
+        <VirtualAssistant />
       </div>
       <Footer></Footer>
     </>

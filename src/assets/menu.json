@@ -1,0 +1,42 @@
+[
+  { "name": "Greek Salad", "tags": ["salad", "healthy", "vegetarian", "fresh"] },
+  { "name": "Veg Salad", "tags": ["salad", "healthy", "vegetarian", "fresh"] },
+  { "name": "Clover Salad", "tags": ["salad", "healthy", "vegetarian", "nutty"] },
+  { "name": "Chicken Salad", "tags": ["salad", "healthy", "chicken", "protein"] },
+
+  { "name": "Lasagna Rolls", "tags": ["rolls", "cheesy", "italian", "baked"] },
+  { "name": "Peri Peri Rolls", "tags": ["rolls", "spicy", "vegetarian", "tangy"] },
+  { "name": "Chicken Rolls", "tags": ["rolls", "chicken", "savory", "protein"] },
+  { "name": "Veg Rolls", "tags": ["rolls", "vegetarian", "savory", "light"] },
+
+  { "name": "Ripple Ice Cream", "tags": ["dessert", "sweet", "ice cream", "fruity"] },
+  { "name": "Fruit Ice Cream", "tags": ["dessert", "sweet", "ice cream", "fruity"] },
+  { "name": "Jar Ice Cream", "tags": ["dessert", "sweet", "ice cream", "layered"] },
+  { "name": "Vanilla Ice Cream", "tags": ["dessert", "sweet", "ice cream", "classic"] },
+
+  { "name": "Chicken Sandwich", "tags": ["sandwich", "chicken", "savory", "protein"] },
+  { "name": "Vegan Sandwich", "tags": ["sandwich", "vegetarian", "healthy", "plant-based"] },
+  { "name": "Grilled Sandwich", "tags": ["sandwich", "cheesy", "grilled", "comfort food"] },
+  { "name": "Bread Sandwich", "tags": ["sandwich", "vegetarian", "light", "simple"] },
+
+  { "name": "Cup Cake", "tags": ["dessert", "sweet", "cake", "frosted"] },
+  { "name": "Vegan Cake", "tags": ["dessert", "sweet", "cake", "vegan"] },
+  { "name": "Butterscotch Cake", "tags": ["dessert", "sweet", "cake", "caramel"] },
+  { "name": "Sliced Cake", "tags": ["dessert", "sweet", "cake", "classic"] },
+
+  { "name": "Garlic Mushroom", "tags": ["pure veg", "vegetarian", "garlic", "savory"] },
+  { "name": "Fried Cauliflower", "tags": ["pure veg", "vegetarian", "fried", "crispy"] },
+  { "name": "Mix Veg Pulao", "tags": ["pure veg", "vegetarian", "rice", "mild"] },
+  { "name": "Rice Zucchini", "tags": ["pure veg", "vegetarian", "rice", "fresh"] },
+
+  { "name": "Cheese Pasta", "tags": ["pasta", "cheesy", "italian", "comfort food"] },
+  { "name": "Tomato Pasta", "tags": ["pasta", "italian", "vegetarian", "tangy"] },
+  { "name": "Creamy Pasta", "tags": ["pasta", "creamy", "italian", "comfort food"] },
+  { "name": "Chicken Pasta", "tags": ["pasta", "italian", "chicken", "protein"] },
+
+  { "name": "Buttter Noodles", "tags": ["noodles", "buttery", "mild", "comfort food"] },
+  { "name": "Veg Noodles", "tags": ["noodles", "vegetarian", "stir-fry", "asian"] },
+  { "name": "Somen Noodles", "tags": ["noodles", "japanese", "light", "refreshing"] },
+  { "name": "Cooked Noodles", "tags": ["noodles", "spicy", "asian", "warming"] }
+]
+

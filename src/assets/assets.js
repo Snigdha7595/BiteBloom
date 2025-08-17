@@ -132,7 +132,7 @@ export const food_list = [
     image: food_1,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A refreshing mix of crisp cucumbers, juicy tomatoes, olives, and feta cheese drizzled with olive oil and herbs.",
     category: "Salad",
   },
   {
@@ -141,7 +141,7 @@ export const food_list = [
     image: food_2,
     price: 18,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A healthy combination of fresh seasonal vegetables, lightly seasoned for a crunchy and nutritious bite.",
     category: "Salad",
   },
   {
@@ -150,7 +150,7 @@ export const food_list = [
     image: food_3,
     price: 16,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A vibrant medley of greens, fruits, and nuts tossed with a light dressing for a balanced and flavorful salad.",
     category: "Salad",
   },
   {
@@ -159,7 +159,7 @@ export const food_list = [
     image: food_4,
     price: 24,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Tender grilled chicken pieces paired with fresh greens and a zesty dressing for a protein-packed delight.",
     category: "Salad",
   },
   {
@@ -168,7 +168,7 @@ export const food_list = [
     image: food_5,
     price: 14,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Soft pasta sheets rolled with cheesy, savory filling and baked to perfection for a fusion of Italian and snack-time bliss.",
     category: "Rolls",
   },
   {
@@ -177,7 +177,7 @@ export const food_list = [
     image: food_6,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Spicy and tangy peri peri-flavored stuffing wrapped in a soft roll — a fiery treat for spice lovers.",
     category: "Rolls",
   },
   {
@@ -186,7 +186,7 @@ export const food_list = [
     image: food_7,
     price: 20,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Juicy, seasoned chicken wrapped in a warm roll with fresh veggies and sauces for a satisfying bite.",
     category: "Rolls",
   },
   {
@@ -195,7 +195,7 @@ export const food_list = [
     image: food_8,
     price: 15,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A wholesome mix of fresh vegetables and spices wrapped in a soft roll, perfect for a light yet tasty snack.",
     category: "Rolls",
   },
   {
@@ -204,7 +204,7 @@ export const food_list = [
     image: food_9,
     price: 14,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Creamy vanilla swirled with ribbons of rich chocolate or fruit sauce for a delightful flavor burst in every bite.",
     category: "Deserts",
   },
   {
@@ -213,7 +213,7 @@ export const food_list = [
     image: food_10,
     price: 22,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A refreshing blend of real fruit chunks and creamy ice cream, perfect for a naturally sweet treat.",
     category: "Deserts",
   },
   {
@@ -222,7 +222,7 @@ export const food_list = [
     image: food_11,
     price: 10,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Layered ice cream served in a jar with toppings, sauces, and mix-ins for a fun, indulgent dessert experience.",
     category: "Deserts",
   },
   {
@@ -231,7 +231,7 @@ export const food_list = [
     image: food_12,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Smooth, creamy, and timeless — a classic vanilla flavor that never goes out of style.",
     category: "Deserts",
   },
   {
@@ -240,7 +240,7 @@ export const food_list = [
     image: food_13,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Tender grilled chicken layered with fresh veggies and creamy dressing, packed between soft bread for a hearty bite.s",
     category: "Sandwich",
   },
   {
@@ -249,7 +249,7 @@ export const food_list = [
     image: food_14,
     price: 18,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A fresh and wholesome plant-based sandwich loaded with crisp vegetables and flavorful vegan spread.",
     category: "Sandwich",
   },
   {
@@ -258,7 +258,7 @@ export const food_list = [
     image: food_15,
     price: 16,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Golden, crispy bread grilled to perfection, filled with melty cheese and your favorite fillings for a warm comfort snack.",
     category: "Sandwich",
   },
   {
@@ -267,7 +267,7 @@ export const food_list = [
     image: food_16,
     price: 24,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Simple and classic — soft bread stacked with fresh greens, cheese, and a touch of seasoning for a light, tasty meal.",
     category: "Sandwich",
   },
   {
@@ -276,7 +276,7 @@ export const food_list = [
     image: food_17,
     price: 14,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Soft, fluffy, and perfectly sweet — a delightful little treat topped with creamy frosting for instant happiness.",
     category: "Cake",
   },
   {
@@ -285,7 +285,7 @@ export const food_list = [
     image: food_18,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Moist and rich cake made without dairy or eggs, proving that indulgence can be completely plant-based.",
     category: "Cake",
   },
   {
@@ -294,7 +294,7 @@ export const food_list = [
     image: food_19,
     price: 20,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Layers of soft sponge infused with caramelized butterscotch flavor, topped with crunchy praline for a perfect bite.",
     category: "Cake",
   },
   {
@@ -303,7 +303,7 @@ export const food_list = [
     image: food_20,
     price: 15,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Simple yet elegant slices of moist cake, ready to enjoy anytime with your favorite tea or coffee.",
     category: "Cake",
   },
   {
@@ -312,7 +312,7 @@ export const food_list = [
     image: food_21,
     price: 14,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Tender mushrooms sautéed to perfection in aromatic garlic and herbs, offering a savory and earthy delight.",
     category: "Pure Veg",
   },
   {
@@ -321,7 +321,7 @@ export const food_list = [
     image: food_22,
     price: 22,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Crispy golden cauliflower florets with a light seasoning — crunchy on the outside, soft on the inside.",
     category: "Pure Veg",
   },
   {
@@ -330,7 +330,7 @@ export const food_list = [
     image: food_23,
     price: 10,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Fragrant basmati rice cooked with a colorful mix of fresh vegetables and mild spices for a wholesome, flavorful meal.",
     category: "Pure Veg",
   },
   {
@@ -339,7 +339,7 @@ export const food_list = [
     image: food_24,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Steamed rice paired with sautéed zucchini and gentle spices, bringing a fresh and light touch to your plate.",
     category: "Pure Veg",
   },
   {
@@ -348,7 +348,7 @@ export const food_list = [
     image: food_25,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Creamy, cheesy goodness in every bite — tender pasta smothered in a rich cheese sauce for the ultimate comfort meal.",
     category: "Pasta",
   },
   {
@@ -357,7 +357,7 @@ export const food_list = [
     image: food_26,
     price: 18,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Al dente pasta coated in a tangy, fresh tomato sauce with herbs for a light yet flavorful Italian classic.g",
     category: "Pasta",
   },
   {
@@ -366,7 +366,7 @@ export const food_list = [
     image: food_27,
     price: 16,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Smooth, velvety cream sauce hugging every strand of pasta, delivering indulgent flavor in every forkful.",
     category: "Pasta",
   },
   {
@@ -375,7 +375,7 @@ export const food_list = [
     image: food_28,
     price: 24,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Juicy, seasoned chicken pieces tossed with pasta and a savory sauce, creating a hearty, protein-packed dish.",
     category: "Pasta",
   },
   {
@@ -384,7 +384,7 @@ export const food_list = [
     image: food_29,
     price: 14,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Smooth, silky noodles tossed in rich, creamy butter for a simple yet indulgent comfort dish. Perfect for when you want flavor without the fuss",
     category: "Noodles",
   },
   {
@@ -393,7 +393,7 @@ export const food_list = [
     image: food_30,
     price: 12,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "A colorful medley of fresh vegetables stir-fried with noodles in light seasoning, delivering a healthy and satisfying bite in every forkful",
     category: "Noodles",
   },
   {
@@ -402,7 +402,7 @@ export const food_list = [
     image: food_31,
     price: 20,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Delicate, thin Japanese noodles served with a refreshing, mild broth or dipping sauce — light on the palate yet full of flavor.",
     category: "Noodles",
   },
   {
@@ -411,7 +411,7 @@ export const food_list = [
     image: food_32,
     price: 15,
     description:
-      "Food provides essential nutrients for overall health and well-being",
+      "Tender noodles in a flavorful broth topped with fresh herbs, vegetables, and fiery red chilies — a warming, spicy delight for bold taste lovers.",
     category: "Noodles",
   },
 ];
