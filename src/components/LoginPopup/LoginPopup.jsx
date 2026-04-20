@@ -1,5 +1,5 @@
 import React from "react";
-import "./LoginPopup.CSS";
+import "./LoginPopup.css";
 import { useState } from "react";
 import { assets } from "../../assets/assets";
 
