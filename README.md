@@ -10,12 +10,6 @@ BiteBloom is a modern, responsive food ordering web application built with **Rea
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here_
-
----
-
 ## ✨ Features
 
 - 🍽️ **Browse Menu by Category** — Explore food across 8 categories: Salads, Rolls, Desserts, Sandwiches, Cakes, Pure Veg, Pasta, and Noodles
