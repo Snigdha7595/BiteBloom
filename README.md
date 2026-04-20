@@ -6,7 +6,7 @@ BiteBloom is a modern, responsive food ordering web application built with **Rea
 
 ## 🚀 Live Demo
 
-> _Deploy link here (e.g. Vercel / Netlify)_
+https://bite-bloom.vercel.app/
 
 ---
 
